@@ -5,7 +5,7 @@ class Main
 	{
 	
 	Scanner sc=new Scanner(System.in);
-	{System.out.println("hello world");
+	{System.out.println("hello my world");
 	}
 	}
 	}
